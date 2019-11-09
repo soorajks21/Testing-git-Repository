@@ -1,0 +1,11 @@
+C:\Users\soora\source\repos\sorting\sorting\bin\Debug\netcoreapp2.1\sorting.deps.json
+C:\Users\soora\source\repos\sorting\sorting\bin\Debug\netcoreapp2.1\sorting.runtimeconfig.json
+C:\Users\soora\source\repos\sorting\sorting\bin\Debug\netcoreapp2.1\sorting.runtimeconfig.dev.json
+C:\Users\soora\source\repos\sorting\sorting\bin\Debug\netcoreapp2.1\sorting.dll
+C:\Users\soora\source\repos\sorting\sorting\bin\Debug\netcoreapp2.1\sorting.pdb
+C:\Users\soora\source\repos\sorting\sorting\obj\Debug\netcoreapp2.1\sorting.csprojAssemblyReference.cache
+C:\Users\soora\source\repos\sorting\sorting\obj\Debug\netcoreapp2.1\sorting.csproj.CoreCompileInputs.cache
+C:\Users\soora\source\repos\sorting\sorting\obj\Debug\netcoreapp2.1\sorting.AssemblyInfoInputs.cache
+C:\Users\soora\source\repos\sorting\sorting\obj\Debug\netcoreapp2.1\sorting.AssemblyInfo.cs
+C:\Users\soora\source\repos\sorting\sorting\obj\Debug\netcoreapp2.1\sorting.dll
+C:\Users\soora\source\repos\sorting\sorting\obj\Debug\netcoreapp2.1\sorting.pdb

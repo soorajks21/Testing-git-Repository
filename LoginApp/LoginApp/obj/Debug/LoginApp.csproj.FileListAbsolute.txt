@@ -1,0 +1,15 @@
+C:\Users\soora\source\repos\LoginApp\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\soora\source\repos\LoginApp\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\soora\source\repos\LoginApp\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\soora\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.csprojAssemblyReference.cache
+C:\Users\soora\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.Form1.resources
+C:\Users\soora\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.Properties.Resources.resources
+C:\Users\soora\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.GenerateResource.cache
+C:\Users\soora\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.CoreCompileInputs.cache
+C:\Users\soora\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\soora\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.pdb
+C:\Users\soora\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.CreateAccount.resources
+C:\Users\soora\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.Dash.resources
+C:\Users\soora\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.FindOrder.resources
+C:\Users\soora\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.NewOrder.resources
+C:\Users\soora\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.Question.resources

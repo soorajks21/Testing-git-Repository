@@ -1,0 +1,7 @@
+C:\Users\soora\source\repos\300871455(Baten)_ASS_2\300871455(Baten)_ASS_2\bin\Debug\300871455(Baten)_ASS_2.exe.config
+C:\Users\soora\source\repos\300871455(Baten)_ASS_2\300871455(Baten)_ASS_2\bin\Debug\300871455(Baten)_ASS_2.exe
+C:\Users\soora\source\repos\300871455(Baten)_ASS_2\300871455(Baten)_ASS_2\bin\Debug\300871455(Baten)_ASS_2.pdb
+C:\Users\soora\source\repos\300871455(Baten)_ASS_2\300871455(Baten)_ASS_2\obj\Debug\300871455(Baten)_ASS_2.csprojAssemblyReference.cache
+C:\Users\soora\source\repos\300871455(Baten)_ASS_2\300871455(Baten)_ASS_2\obj\Debug\300871455(Baten)_ASS_2.csproj.CoreCompileInputs.cache
+C:\Users\soora\source\repos\300871455(Baten)_ASS_2\300871455(Baten)_ASS_2\obj\Debug\300871455(Baten)_ASS_2.exe
+C:\Users\soora\source\repos\300871455(Baten)_ASS_2\300871455(Baten)_ASS_2\obj\Debug\300871455(Baten)_ASS_2.pdb

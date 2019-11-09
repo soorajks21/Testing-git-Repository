@@ -1,0 +1,13 @@
+C:\Users\soora\source\repos\Sort\Sort\obj\Debug\netcoreapp2.1\Sort.csproj.CoreCompileInputs.cache
+C:\Users\soora\source\repos\Sort\Sort\obj\Debug\netcoreapp2.1\Sort.RazorAssemblyInfo.cache
+C:\Users\soora\source\repos\Sort\Sort\obj\Debug\netcoreapp2.1\Sort.RazorAssemblyInfo.cs
+C:\Users\soora\source\repos\Sort\Sort\obj\Debug\netcoreapp2.1\Sort.AssemblyInfoInputs.cache
+C:\Users\soora\source\repos\Sort\Sort\obj\Debug\netcoreapp2.1\Sort.AssemblyInfo.cs
+C:\Users\soora\source\repos\Sort\Sort\bin\Debug\netcoreapp2.1\Sort.deps.json
+C:\Users\soora\source\repos\Sort\Sort\bin\Debug\netcoreapp2.1\Sort.runtimeconfig.json
+C:\Users\soora\source\repos\Sort\Sort\bin\Debug\netcoreapp2.1\Sort.runtimeconfig.dev.json
+C:\Users\soora\source\repos\Sort\Sort\bin\Debug\netcoreapp2.1\Sort.dll
+C:\Users\soora\source\repos\Sort\Sort\bin\Debug\netcoreapp2.1\Sort.pdb
+C:\Users\soora\source\repos\Sort\Sort\obj\Debug\netcoreapp2.1\Sort.RazorTargetAssemblyInfo.cache
+C:\Users\soora\source\repos\Sort\Sort\obj\Debug\netcoreapp2.1\Sort.dll
+C:\Users\soora\source\repos\Sort\Sort\obj\Debug\netcoreapp2.1\Sort.pdb

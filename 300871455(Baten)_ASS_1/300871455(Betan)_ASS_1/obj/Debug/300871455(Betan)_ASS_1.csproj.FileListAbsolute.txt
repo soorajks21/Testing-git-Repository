@@ -1,0 +1,14 @@
+C:\Users\soora\source\repos\300871455(Betan)_ASS_1\300871455(Betan)_ASS_1\bin\Debug\300871455(Betan)_ASS_1.exe.config
+C:\Users\soora\source\repos\300871455(Betan)_ASS_1\300871455(Betan)_ASS_1\bin\Debug\300871455(Betan)_ASS_1.exe
+C:\Users\soora\source\repos\300871455(Betan)_ASS_1\300871455(Betan)_ASS_1\bin\Debug\300871455(Betan)_ASS_1.pdb
+C:\Users\soora\source\repos\300871455(Betan)_ASS_1\300871455(Betan)_ASS_1\obj\Debug\MainWindow.g.cs
+C:\Users\soora\source\repos\300871455(Betan)_ASS_1\300871455(Betan)_ASS_1\obj\Debug\App.g.cs
+C:\Users\soora\source\repos\300871455(Betan)_ASS_1\300871455(Betan)_ASS_1\obj\Debug\300871455(Betan)_ASS_1_MarkupCompile.cache
+C:\Users\soora\source\repos\300871455(Betan)_ASS_1\300871455(Betan)_ASS_1\obj\Debug\300871455(Betan)_ASS_1_MarkupCompile.lref
+C:\Users\soora\source\repos\300871455(Betan)_ASS_1\300871455(Betan)_ASS_1\obj\Debug\MainWindow.baml
+C:\Users\soora\source\repos\300871455(Betan)_ASS_1\300871455(Betan)_ASS_1\obj\Debug\300871455(Betan)_ASS_1.g.resources
+C:\Users\soora\source\repos\300871455(Betan)_ASS_1\300871455(Betan)_ASS_1\obj\Debug\_300871455_Betan__ASS_1.Properties.Resources.resources
+C:\Users\soora\source\repos\300871455(Betan)_ASS_1\300871455(Betan)_ASS_1\obj\Debug\300871455(Betan)_ASS_1.csproj.GenerateResource.cache
+C:\Users\soora\source\repos\300871455(Betan)_ASS_1\300871455(Betan)_ASS_1\obj\Debug\300871455(Betan)_ASS_1.csproj.CoreCompileInputs.cache
+C:\Users\soora\source\repos\300871455(Betan)_ASS_1\300871455(Betan)_ASS_1\obj\Debug\300871455(Betan)_ASS_1.exe
+C:\Users\soora\source\repos\300871455(Betan)_ASS_1\300871455(Betan)_ASS_1\obj\Debug\300871455(Betan)_ASS_1.pdb

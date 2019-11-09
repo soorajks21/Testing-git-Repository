@@ -1,0 +1,14 @@
+C:\Users\soora\source\repos\DynamoDb_300981570\DynamoDb_300981570\bin\Debug\netcoreapp2.2\DynamoDb_300981570.deps.json
+C:\Users\soora\source\repos\DynamoDb_300981570\DynamoDb_300981570\bin\Debug\netcoreapp2.2\DynamoDb_300981570.runtimeconfig.json
+C:\Users\soora\source\repos\DynamoDb_300981570\DynamoDb_300981570\bin\Debug\netcoreapp2.2\DynamoDb_300981570.runtimeconfig.dev.json
+C:\Users\soora\source\repos\DynamoDb_300981570\DynamoDb_300981570\bin\Debug\netcoreapp2.2\DynamoDb_300981570.dll
+C:\Users\soora\source\repos\DynamoDb_300981570\DynamoDb_300981570\obj\Debug\netcoreapp2.2\DynamoDb_300981570.csprojAssemblyReference.cache
+C:\Users\soora\source\repos\DynamoDb_300981570\DynamoDb_300981570\obj\Debug\netcoreapp2.2\DynamoDb_300981570.csproj.CoreCompileInputs.cache
+C:\Users\soora\source\repos\DynamoDb_300981570\DynamoDb_300981570\obj\Debug\netcoreapp2.2\DynamoDb_300981570.RazorAssemblyInfo.cache
+C:\Users\soora\source\repos\DynamoDb_300981570\DynamoDb_300981570\obj\Debug\netcoreapp2.2\DynamoDb_300981570.RazorAssemblyInfo.cs
+C:\Users\soora\source\repos\DynamoDb_300981570\DynamoDb_300981570\obj\Debug\netcoreapp2.2\DynamoDb_300981570.AssemblyInfoInputs.cache
+C:\Users\soora\source\repos\DynamoDb_300981570\DynamoDb_300981570\obj\Debug\netcoreapp2.2\DynamoDb_300981570.AssemblyInfo.cs
+C:\Users\soora\source\repos\DynamoDb_300981570\DynamoDb_300981570\obj\Debug\netcoreapp2.2\DynamoDb_300981570.RazorTargetAssemblyInfo.cache
+C:\Users\soora\source\repos\DynamoDb_300981570\DynamoDb_300981570\bin\Debug\netcoreapp2.2\DynamoDb_300981570.pdb
+C:\Users\soora\source\repos\DynamoDb_300981570\DynamoDb_300981570\obj\Debug\netcoreapp2.2\DynamoDb_300981570.dll
+C:\Users\soora\source\repos\DynamoDb_300981570\DynamoDb_300981570\obj\Debug\netcoreapp2.2\DynamoDb_300981570.pdb

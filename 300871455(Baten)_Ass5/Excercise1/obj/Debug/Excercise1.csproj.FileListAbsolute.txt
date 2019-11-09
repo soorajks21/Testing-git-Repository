@@ -1,0 +1,7 @@
+C:\Users\soora\source\repos\300871455(Baten)_Ass5\Excercise1\bin\Debug\Excercise1.exe.config
+C:\Users\soora\source\repos\300871455(Baten)_Ass5\Excercise1\bin\Debug\Excercise1.exe
+C:\Users\soora\source\repos\300871455(Baten)_Ass5\Excercise1\bin\Debug\Excercise1.pdb
+C:\Users\soora\source\repos\300871455(Baten)_Ass5\Excercise1\obj\Debug\Excercise1.csprojAssemblyReference.cache
+C:\Users\soora\source\repos\300871455(Baten)_Ass5\Excercise1\obj\Debug\Excercise1.csproj.CoreCompileInputs.cache
+C:\Users\soora\source\repos\300871455(Baten)_Ass5\Excercise1\obj\Debug\Excercise1.exe
+C:\Users\soora\source\repos\300871455(Baten)_Ass5\Excercise1\obj\Debug\Excercise1.pdb

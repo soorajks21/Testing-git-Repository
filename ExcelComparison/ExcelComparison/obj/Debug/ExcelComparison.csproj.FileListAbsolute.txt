@@ -1,0 +1,10 @@
+C:\Users\soora\source\repos\ExcelComparison\ExcelComparison\bin\Debug\ExcelComparison.exe.config
+C:\Users\soora\source\repos\ExcelComparison\ExcelComparison\bin\Debug\ExcelComparison.exe
+C:\Users\soora\source\repos\ExcelComparison\ExcelComparison\bin\Debug\ExcelComparison.pdb
+C:\Users\soora\source\repos\ExcelComparison\ExcelComparison\obj\Debug\ExcelComparison.csprojAssemblyReference.cache
+C:\Users\soora\source\repos\ExcelComparison\ExcelComparison\obj\Debug\ExcelComparison.Form1.resources
+C:\Users\soora\source\repos\ExcelComparison\ExcelComparison\obj\Debug\ExcelComparison.Properties.Resources.resources
+C:\Users\soora\source\repos\ExcelComparison\ExcelComparison\obj\Debug\ExcelComparison.csproj.GenerateResource.cache
+C:\Users\soora\source\repos\ExcelComparison\ExcelComparison\obj\Debug\ExcelComparison.csproj.CoreCompileInputs.cache
+C:\Users\soora\source\repos\ExcelComparison\ExcelComparison\obj\Debug\ExcelComparison.exe
+C:\Users\soora\source\repos\ExcelComparison\ExcelComparison\obj\Debug\ExcelComparison.pdb

@@ -1,0 +1,7 @@
+C:\Users\soora\source\repos\Sooraj_Suresh_Lab02_Excercise02\Sooraj_Suresh_Lab02_Excercise02\bin\Debug\Sooraj_Suresh_Lab02_Excercise02.exe.config
+C:\Users\soora\source\repos\Sooraj_Suresh_Lab02_Excercise02\Sooraj_Suresh_Lab02_Excercise02\bin\Debug\Sooraj_Suresh_Lab02_Excercise02.exe
+C:\Users\soora\source\repos\Sooraj_Suresh_Lab02_Excercise02\Sooraj_Suresh_Lab02_Excercise02\bin\Debug\Sooraj_Suresh_Lab02_Excercise02.pdb
+C:\Users\soora\source\repos\Sooraj_Suresh_Lab02_Excercise02\Sooraj_Suresh_Lab02_Excercise02\obj\Debug\Sooraj_Suresh_Lab02_Excercise02.csprojAssemblyReference.cache
+C:\Users\soora\source\repos\Sooraj_Suresh_Lab02_Excercise02\Sooraj_Suresh_Lab02_Excercise02\obj\Debug\Sooraj_Suresh_Lab02_Excercise02.csproj.CoreCompileInputs.cache
+C:\Users\soora\source\repos\Sooraj_Suresh_Lab02_Excercise02\Sooraj_Suresh_Lab02_Excercise02\obj\Debug\Sooraj_Suresh_Lab02_Excercise02.exe
+C:\Users\soora\source\repos\Sooraj_Suresh_Lab02_Excercise02\Sooraj_Suresh_Lab02_Excercise02\obj\Debug\Sooraj_Suresh_Lab02_Excercise02.pdb

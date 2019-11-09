@@ -1,0 +1,7 @@
+C:\Users\soora\source\repos\CsharpPlinq\CsharpPlinq\bin\Debug\CsharpPlinq.exe.config
+C:\Users\soora\source\repos\CsharpPlinq\CsharpPlinq\bin\Debug\CsharpPlinq.exe
+C:\Users\soora\source\repos\CsharpPlinq\CsharpPlinq\bin\Debug\CsharpPlinq.pdb
+C:\Users\soora\source\repos\CsharpPlinq\CsharpPlinq\obj\Debug\CsharpPlinq.csprojAssemblyReference.cache
+C:\Users\soora\source\repos\CsharpPlinq\CsharpPlinq\obj\Debug\CsharpPlinq.csproj.CoreCompileInputs.cache
+C:\Users\soora\source\repos\CsharpPlinq\CsharpPlinq\obj\Debug\CsharpPlinq.exe
+C:\Users\soora\source\repos\CsharpPlinq\CsharpPlinq\obj\Debug\CsharpPlinq.pdb

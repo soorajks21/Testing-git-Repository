@@ -1,0 +1,5 @@
+C:\Users\soora\source\repos\DynamoDb_300981570\DynamoDb.Libs\bin\Debug\netcoreapp2.2\DynamoDb.Libs.deps.json
+C:\Users\soora\source\repos\DynamoDb_300981570\DynamoDb.Libs\bin\Debug\netcoreapp2.2\DynamoDb.Libs.dll
+C:\Users\soora\source\repos\DynamoDb_300981570\DynamoDb.Libs\obj\Debug\netcoreapp2.2\DynamoDb.Libs.csproj.CoreCompileInputs.cache
+C:\Users\soora\source\repos\DynamoDb_300981570\DynamoDb.Libs\obj\Debug\netcoreapp2.2\DynamoDb.Libs.AssemblyInfoInputs.cache
+C:\Users\soora\source\repos\DynamoDb_300981570\DynamoDb.Libs\obj\Debug\netcoreapp2.2\DynamoDb.Libs.AssemblyInfo.cs

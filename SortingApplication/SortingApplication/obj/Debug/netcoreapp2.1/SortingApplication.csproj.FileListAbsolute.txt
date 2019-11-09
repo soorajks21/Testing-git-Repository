@@ -1,0 +1,14 @@
+C:\Users\soora\source\repos\SortingApplication\SortingApplication\bin\Debug\netcoreapp2.1\SortingApplication.deps.json
+C:\Users\soora\source\repos\SortingApplication\SortingApplication\bin\Debug\netcoreapp2.1\SortingApplication.runtimeconfig.json
+C:\Users\soora\source\repos\SortingApplication\SortingApplication\bin\Debug\netcoreapp2.1\SortingApplication.runtimeconfig.dev.json
+C:\Users\soora\source\repos\SortingApplication\SortingApplication\bin\Debug\netcoreapp2.1\SortingApplication.dll
+C:\Users\soora\source\repos\SortingApplication\SortingApplication\bin\Debug\netcoreapp2.1\SortingApplication.pdb
+C:\Users\soora\source\repos\SortingApplication\SortingApplication\obj\Debug\netcoreapp2.1\SortingApplication.csproj.CoreCompileInputs.cache
+C:\Users\soora\source\repos\SortingApplication\SortingApplication\obj\Debug\netcoreapp2.1\SortingApplication.RazorAssemblyInfo.cache
+C:\Users\soora\source\repos\SortingApplication\SortingApplication\obj\Debug\netcoreapp2.1\SortingApplication.RazorAssemblyInfo.cs
+C:\Users\soora\source\repos\SortingApplication\SortingApplication\obj\Debug\netcoreapp2.1\SortingApplication.AssemblyInfoInputs.cache
+C:\Users\soora\source\repos\SortingApplication\SortingApplication\obj\Debug\netcoreapp2.1\SortingApplication.AssemblyInfo.cs
+C:\Users\soora\source\repos\SortingApplication\SortingApplication\obj\Debug\netcoreapp2.1\SortingApplication.RazorTargetAssemblyInfo.cache
+C:\Users\soora\source\repos\SortingApplication\SortingApplication\obj\Debug\netcoreapp2.1\SortingApplication.dll
+C:\Users\soora\source\repos\SortingApplication\SortingApplication\obj\Debug\netcoreapp2.1\SortingApplication.pdb
+C:\Users\soora\source\repos\SortingApplication\SortingApplication\obj\Debug\netcoreapp2.1\SortingApplication.csprojAssemblyReference.cache

@@ -1,0 +1,38 @@
+﻿<Window x:Class="Excercise_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Excercise_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="760">
+    <Grid>
+
+       
+       
+        <InkCanvas Background="AntiqueWhite" HorizontalAlignment="Left" Height="401" Name="inkCanvas1" Margin="291,10,0,0" VerticalAlignment="Top" Width="432" Gesture="InkCanvas_Gesture">
+            
+        </InkCanvas>
+
+
+        <GroupBox Header="Color" HorizontalAlignment="Left" Height="180" Margin="27,10,0,0" VerticalAlignment="Top" Width="233">
+            <StackPanel Height="100">
+                <RadioButton Content="Red" Name="redBtn" Click="RedBtn_Click" BorderBrush="Red" GroupName="colors"  ClickMode="Press"/>
+                <RadioButton Content="Blue" Name="blueBtn"  Click="BlueBtn_Click" BorderBrush="Blue" GroupName="colors"/>
+                <RadioButton Content="Green" Name="greenBtn" Click="GreenBtn_Click" BorderBrush="Green" GroupName="colors"/>
+                <RadioButton Content="Black" Name="blkBtn" Click="BlkBtn_Click" BorderBrush="Black" GroupName="colors"/>
+            </StackPanel>
+
+        </GroupBox>
+        <GroupBox Header="Size" HorizontalAlignment="Left" Height="156" Margin="27,221,0,0" VerticalAlignment="Top" Width="233">
+            <StackPanel Height="100">
+                <RadioButton Content="Small" Name="smallBtn" Click="SmallBtn_Click"/>
+                <RadioButton Content="Medium" Name="medBtn" Click="MedBtn_Click"/>
+                <RadioButton Content="Large" Name="lrgBtn" Click="LrgBtn_Click"/>
+            </StackPanel>
+        </GroupBox>
+
+
+
+    </Grid>
+</Window>

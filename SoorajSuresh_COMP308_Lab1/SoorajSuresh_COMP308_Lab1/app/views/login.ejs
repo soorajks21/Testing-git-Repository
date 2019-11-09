@@ -1,0 +1,93 @@
+﻿<!DOCTYPE html>
+<html>
+
+<style>
+* {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 20px;
+        color: #6e6e6e;
+        background-color: #989898;
+    }
+
+    .heading {
+        width: 100%
+    }
+    .container {
+        margin: 0 auto;
+        margin-top: 10%;
+        width: 40%;
+        border: 5px solid WHITE;
+        background-color: #989898;
+        padding: 20px;
+    }
+
+
+
+    input {
+        width: 75%;
+        padding: 20px;
+        margin: 30px auto;
+
+        border: 1px solid rgb(243, 243, 243);
+        box-sizing: border-box;
+        border-radius: 10px;
+    }
+
+    button {
+        background-color: black;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        cursor: pointer;
+        width: 75%;
+        height: 50px;
+        font-size: 20px;
+        border-radius: 20px;
+		margin-left:75px;
+
+    }
+
+    button:hover {
+        opacity: 0.8;
+    }
+</style>
+
+
+<body>
+
+
+<h2>Login Form</h2>
+
+
+
+<form method="post">
+
+
+  <div class="container">
+			
+
+			<label  for="username"><b>Username</b></label> 
+			<input type="email" placeholder="Enter your valid email" name="username" required > 
+	
+			<label for="password"><b>Password</b></label> 
+			<input type="password" placeholder="Enter Password" name="password" required> 
+
+			<button type="submit" name="submit" value="Submit">Login</button>
+	
+  
+  </div>
+ 
+
+
+</form>
+
+
+</body>
+
+</html>

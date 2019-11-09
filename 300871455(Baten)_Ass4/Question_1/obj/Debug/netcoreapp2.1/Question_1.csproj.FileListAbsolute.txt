@@ -1,0 +1,11 @@
+C:\Users\soora\source\repos\300871455(Baten)_Ass4\Question_1\bin\Debug\netcoreapp2.1\Question_1.deps.json
+C:\Users\soora\source\repos\300871455(Baten)_Ass4\Question_1\bin\Debug\netcoreapp2.1\Question_1.runtimeconfig.json
+C:\Users\soora\source\repos\300871455(Baten)_Ass4\Question_1\bin\Debug\netcoreapp2.1\Question_1.runtimeconfig.dev.json
+C:\Users\soora\source\repos\300871455(Baten)_Ass4\Question_1\bin\Debug\netcoreapp2.1\Question_1.dll
+C:\Users\soora\source\repos\300871455(Baten)_Ass4\Question_1\bin\Debug\netcoreapp2.1\Question_1.pdb
+C:\Users\soora\source\repos\300871455(Baten)_Ass4\Question_1\obj\Debug\netcoreapp2.1\Question_1.csprojAssemblyReference.cache
+C:\Users\soora\source\repos\300871455(Baten)_Ass4\Question_1\obj\Debug\netcoreapp2.1\Question_1.csproj.CoreCompileInputs.cache
+C:\Users\soora\source\repos\300871455(Baten)_Ass4\Question_1\obj\Debug\netcoreapp2.1\Question_1.AssemblyInfoInputs.cache
+C:\Users\soora\source\repos\300871455(Baten)_Ass4\Question_1\obj\Debug\netcoreapp2.1\Question_1.AssemblyInfo.cs
+C:\Users\soora\source\repos\300871455(Baten)_Ass4\Question_1\obj\Debug\netcoreapp2.1\Question_1.dll
+C:\Users\soora\source\repos\300871455(Baten)_Ass4\Question_1\obj\Debug\netcoreapp2.1\Question_1.pdb

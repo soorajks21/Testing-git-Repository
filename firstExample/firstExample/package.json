@@ -1,0 +1,9 @@
+{
+  "name": "first-example",
+  "version": "0.0.0",
+  "description": "firstExample",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}

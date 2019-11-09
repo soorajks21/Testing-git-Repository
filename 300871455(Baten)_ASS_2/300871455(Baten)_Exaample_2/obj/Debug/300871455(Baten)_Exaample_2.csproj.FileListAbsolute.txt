@@ -1,0 +1,15 @@
+C:\Users\soora\source\repos\300871455(Baten)_ASS_2\300871455(Baten)_Exaample_2\bin\Debug\300871455(Baten)_Exaample_2.exe.config
+C:\Users\soora\source\repos\300871455(Baten)_ASS_2\300871455(Baten)_Exaample_2\bin\Debug\300871455(Baten)_Exaample_2.exe
+C:\Users\soora\source\repos\300871455(Baten)_ASS_2\300871455(Baten)_Exaample_2\bin\Debug\300871455(Baten)_Exaample_2.pdb
+C:\Users\soora\source\repos\300871455(Baten)_ASS_2\300871455(Baten)_Exaample_2\obj\Debug\300871455(Baten)_Exaample_2.csprojAssemblyReference.cache
+C:\Users\soora\source\repos\300871455(Baten)_ASS_2\300871455(Baten)_Exaample_2\obj\Debug\MainWindow.g.cs
+C:\Users\soora\source\repos\300871455(Baten)_ASS_2\300871455(Baten)_Exaample_2\obj\Debug\App.g.cs
+C:\Users\soora\source\repos\300871455(Baten)_ASS_2\300871455(Baten)_Exaample_2\obj\Debug\300871455(Baten)_Exaample_2_MarkupCompile.cache
+C:\Users\soora\source\repos\300871455(Baten)_ASS_2\300871455(Baten)_Exaample_2\obj\Debug\300871455(Baten)_Exaample_2_MarkupCompile.lref
+C:\Users\soora\source\repos\300871455(Baten)_ASS_2\300871455(Baten)_Exaample_2\obj\Debug\MainWindow.baml
+C:\Users\soora\source\repos\300871455(Baten)_ASS_2\300871455(Baten)_Exaample_2\obj\Debug\300871455(Baten)_Exaample_2.g.resources
+C:\Users\soora\source\repos\300871455(Baten)_ASS_2\300871455(Baten)_Exaample_2\obj\Debug\_300871455_Baten__Exaample_2.Properties.Resources.resources
+C:\Users\soora\source\repos\300871455(Baten)_ASS_2\300871455(Baten)_Exaample_2\obj\Debug\300871455(Baten)_Exaample_2.csproj.GenerateResource.cache
+C:\Users\soora\source\repos\300871455(Baten)_ASS_2\300871455(Baten)_Exaample_2\obj\Debug\300871455(Baten)_Exaample_2.csproj.CoreCompileInputs.cache
+C:\Users\soora\source\repos\300871455(Baten)_ASS_2\300871455(Baten)_Exaample_2\obj\Debug\300871455(Baten)_Exaample_2.exe
+C:\Users\soora\source\repos\300871455(Baten)_ASS_2\300871455(Baten)_Exaample_2\obj\Debug\300871455(Baten)_Exaample_2.pdb

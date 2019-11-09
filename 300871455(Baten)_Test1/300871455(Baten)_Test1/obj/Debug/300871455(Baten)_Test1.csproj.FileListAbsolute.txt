@@ -1,0 +1,13 @@
+C:\Users\soora\source\repos\300871455(Baten)_Test1\300871455(Baten)_Test1\bin\Debug\300871455(Baten)_Test1.exe.config
+C:\Users\soora\source\repos\300871455(Baten)_Test1\300871455(Baten)_Test1\bin\Debug\300871455(Baten)_Test1.exe
+C:\Users\soora\source\repos\300871455(Baten)_Test1\300871455(Baten)_Test1\bin\Debug\300871455(Baten)_Test1.pdb
+C:\Users\soora\source\repos\300871455(Baten)_Test1\300871455(Baten)_Test1\obj\Debug\_300871455_Baten__Test1.Form1.resources
+C:\Users\soora\source\repos\300871455(Baten)_Test1\300871455(Baten)_Test1\obj\Debug\_300871455_Baten__Test1.Properties.Resources.resources
+C:\Users\soora\source\repos\300871455(Baten)_Test1\300871455(Baten)_Test1\obj\Debug\300871455(Baten)_Test1.csproj.GenerateResource.cache
+C:\Users\soora\source\repos\300871455(Baten)_Test1\300871455(Baten)_Test1\obj\Debug\300871455(Baten)_Test1.csproj.CoreCompileInputs.cache
+C:\Users\soora\source\repos\300871455(Baten)_Test1\300871455(Baten)_Test1\obj\Debug\300871455(Baten)_Test1.exe
+C:\Users\soora\source\repos\300871455(Baten)_Test1\300871455(Baten)_Test1\obj\Debug\300871455(Baten)_Test1.pdb
+C:\Users\soora\source\repos\300871455(Baten)_Test1\300871455(Baten)_Test1\obj\Debug\300871455(Baten)_Test1.csprojAssemblyReference.cache
+C:\Users\soora\source\repos\300871455(Baten)_Test1\300871455(Baten)_Test1\bin\Debug\Customer.mdf
+C:\Users\soora\source\repos\300871455(Baten)_Test1\300871455(Baten)_Test1\bin\Debug\Customer_log.ldf
+C:\Users\soora\source\repos\300871455(Baten)_Test1\300871455(Baten)_Test1\obj\Debug\_300871455_Baten__Test1.SortForm.resources
